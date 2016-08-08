@@ -1,0 +1,28 @@
+_repo: The-Book-of-American-Negro-Poetry_11986
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Johnson, James Weldon
+    alias: Johnson, J. W. (James Weldon)
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '3793'
+    url: http://www.gutenberg.org/2009/agents/3793
+    wikipedia: http://en.wikipedia.org/wiki/James_Weldon_Johnson
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11986'
+  lccn: '22005816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Poetry'
+- !lcc 'PS'
+- !lcsh 'American poetry -- African American authors'
+- GITenberg
+title: The Book of American Negro Poetry
+url: http://www.gutenberg.org/ebooks/11986
